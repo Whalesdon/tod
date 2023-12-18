@@ -1,0 +1,120 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@400;500&display=swap
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://tgr.blox.pro/
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\index.htm
+Content Type: text/html
+
+Uri: https://tgr.blox.pro/3d-object.png
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\3d-object.png
+Content Type: image/png
+
+Uri: https://tgr.blox.pro/favicon.ico
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://tgr.blox.pro/fonts/Geist-Bold.woff2
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\fonts\Geist-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://tgr.blox.pro/fonts/Geist-Regular.woff2
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\fonts\Geist-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://tgr.blox.pro/fonts/GeistMono-Bold.woff2
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\fonts\GeistMono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://tgr.blox.pro/fonts/GeistMono-Regular.woff2
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\fonts\GeistMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://tgr.blox.pro/_next/image?url=%2Flogo.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\logo-1.png
+Content Type: image/png
+
+Uri: https://tgr.blox.pro/_next/image?url=%2Flogo.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\logo.png
+Content Type: image/png
+
+Uri: https://tgr.blox.pro/_next/static/chunks/1bfc9850-92cc62d880e0d6c1.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\1bfc9850-92cc62d880e0d6c1.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/8145-01ef6b06add22253.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\8145-01ef6b06add22253.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/a6b6e55d-e6c430ca662c1166.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\a6b6e55d-e6c430ca662c1166.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/c7773329-b55a7a6e7fb4bdce.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\c7773329-b55a7a6e7fb4bdce.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/framework-ca706bf673a13738.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\framework-ca706bf673a13738.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/main-5124ff2d19b1c429.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\main-5124ff2d19b1c429.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/pages/index-4ec387a872ac2627.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\pages\index-4ec387a872ac2627.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/pages/_app-fb5bd56fc753231e.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\pages\_app-fb5bd56fc753231e.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/chunks/webpack-fe8bf6a010328dfd.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\chunks\webpack-fe8bf6a010328dfd.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/css/7171f75188cd15b7.css
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\css\7171f75188cd15b7.css
+Content Type: text/css
+
+Uri: https://tgr.blox.pro/_next/static/css/db75bf45939c5967.css
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\css\db75bf45939c5967.css
+Content Type: text/css
+
+Uri: https://tgr.blox.pro/_next/static/GXGRP4-rZ0GS_h6FZymie/_buildManifest.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\GXGRP4-rZ0GS_h6FZymie\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://tgr.blox.pro/_next/static/GXGRP4-rZ0GS_h6FZymie/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\tgr.blox.pro\_next\static\GXGRP4-rZ0GS_h6FZymie\_ssgManifest.js
+Content Type: application/javascript
+
